@@ -22,6 +22,12 @@ body {
     background-position: left -120px  bottom -460px,top -100px right -100px;
     overflow-x: hidden;
 }
+.dark-mode {
+    background-color: black;
+}
+
+
+
 
 ul,li,h1,h2,h3,a,p {
     margin: 0;
