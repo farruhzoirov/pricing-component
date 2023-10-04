@@ -224,6 +224,7 @@ img {
 .pricing-item__value {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-bottom: 32px;
     color: #4A4D60;
     letter-spacing: -2.16px;
